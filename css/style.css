@@ -16,8 +16,8 @@ body{
   background-size: cover ;
   background-position: center;
   background-repeat: no-repeat;
-  background-image: "henrichumich/homework3/images/pigeon-background.JPEG";
-  background-color: #DDDDDD;
+  background-image: url("jhenrichumich/homework3/images/pigeon-background.JPEG");
+  background-color: #DDDDDD
 }
 
 
