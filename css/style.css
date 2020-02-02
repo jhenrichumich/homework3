@@ -15,7 +15,11 @@ body{
   margin: 1.2em;
   background-size: cover ;
   background-position: center;
+  background-repeat: no-repeat;
+  background-image: "henrichumich/homework3/images/pigeon-background.JPEG";
+  background-color: #DDDDDD;
 }
+
 
 main{
   margin-bottom: 100px;
